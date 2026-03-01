@@ -73,6 +73,11 @@ body {
                 0 0 40px #00a5b1;
 }
 
+.decoration {
+    lenght: 600px
+    Height: 300px
+}
+
 @media (max-width: 600px) {
     h1 {
         font-size: 28px;
@@ -86,4 +91,5 @@ body {
         font-size: 16px;
         padding: 18px;
     }
+
 }
